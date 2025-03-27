@@ -1,0 +1,99 @@
+OBJECTIVES
+
+1. Research & Development of strategies:
+	- Statistical Analysis
+	- Alpha Research
+	- Model Development
+	- Backtesting strategies
+	- Backtest analysis
+	- Data Analysis
+
+	>> Human Resource Involved:
+		- Quant Researchers/ Strategists
+		- Traders
+
+2. Deployment and live testing
+	- Deployment scripts
+		- Event listening
+		- Event processing (Strategy)
+		- Order management system 
+	- logging/ Alerts
+	- Strategy performance review
+	- Deployment pipeline
+
+	>> Human Resource Involved:
+		- Quant Developers
+		- Infrastructure teams || Devops Engineer
+		- Traders
+
+3. Product development
+	- Web frontend interface
+	- Mobile frontend interface
+	- Devops
+		- Technical risk management
+		- Infrastructure scaling
+	- Strategy performance monitoring during market hours
+
+
+	>> Human Resource Involved:
+		- Android/ IOS app developer [frontend]
+		- Infrastructure teams || Devops Engineer
+		- Application Support team (Customer care)
+
+
+ROADMAP:
+R&D --> Live testing --> Deployment in production (for users) --> MVP --> Feedback (Pilot programme) --> Iterations --> Final MVP --> Re-Valuation & Funding --> Hiring and Team formation --> Product building for 10,000 users
+
+
+
+The MVP
+What we had discussed before:
+- 2 broker integrations
+- 2 strategies [though this doesn't make sense as if we are providing guaranteed returns on investment then we should be offering just one automated product... and we will be deciding how to distribute client's fund on the strategies.]
+What can we include:
+- Integration of the 6 to 9 scripts we will be developing.
+
+
+MVP ----to--->>> Product
+- Maybe we realise running strategies for users on AWS is not efficient since AWS clusters the hardware.
+- Will have to analyse the latency optimisation requirements.
+- Maybe we have to change the tech stack to build a more robust execution engine. (e.g. Shifting to a C# based application architecture from a python backed framework)
+- Change in trading strategies and portfolio management.
+- Change in product business model.
+- Addition/ Removal of features.
+
+
+KEY ROLES & RESPONSIBILITIES
+
+- Statistical analysis, backtesting strategies, backtest analysis, data analysis.
+- Development of modules to do the above R&D.
+- Development of trading scripts [6 to 9 across F&O, Crypto, Forex].
+- Live deployment of the scripts on funded broker accounts for live testing.
+- Integration of trading scripts into the product.
+- Developing the Order management system for users along with logging/ alerts.
+- Developing databases like tradebook & orderbook, connecting both to interface for performance review and monitoring for user.
+- Provide continuous suggestions for process improvement and performance optimization.
+- Stay informed on the latest advancements in quantitative analysis, machine learning, and AI to apply innovative solutions.
+
+- Devops/ microservices will mostly not be involved till MVP as that will overengineer the workflow and elongate testing duration also introducing unwanted challenges.
+- No involvement on frontend side of the product. (Can contribute, but won't be my key role)
+
+
+COMMERCIALS & TERMS
+
+Tech will be integral part, be it product development or strategy deployment.
+Evaluating everything... and accounting for current market standards, my expectations, financial forecast, commitment required and risks involved I would like to ask for:
+
+1. Either   a) $3500 fixed compensation on monthly basis Or   b) 5% equity + $700 monthly compensation.
+2. For my growth additional $500 monthly in terms of sponsorship for courses/ networking events/ hackathons and travel/ food involved.
+3. Royalty from subscriptions
+
+4. Flexi-working, remote and 5-day work week. Expected 40- 50 hr (I can commit to work apart from this but won't list as part of contract).
+5. The above will be followed up until completion of MVP whose scope will be predefined and can be till 6 months.
+6. Contract for option where company can buyback share if I want to liquidate post MVP completion. Formulation of buyback to be discussed (fixed/float/on basis of current or future valuation).
+
+7. Funded broker accounts for testing and deployment of codes to be provided. 
+8. For commitments (Major examinations) we can schedule break of 15 days. One such commitment is in November and another might be in coming March.
+
+- Information sharing of valuation, funding, current investors and partners
+- I can sign a NDA prior to above.
